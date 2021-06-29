@@ -120,6 +120,20 @@
 				"https://github.com/zachary7829/AppixReborn/raw/master/Assets/u0_5.2.0_settings.png"
 			]
 		},
+       		{
+            "name": "DolphiniOS",
+            "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb",
+            "developerName": "OatmealDome",
+            "subtitle": "A GameCube/Wii emulator for iOS",
+            "version": "3.1.1",
+            "versionDate": "2020-11-13",
+            "versionDescription": "This update adds support for non-jailbroken devices with A12 processors and newer running iOS 14.2.",
+            "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-Single-3.1.1-129.ipa",
+            "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more.",
+            "iconURL": "https://styles.redditmedia.com/t5_2toete/styles/communityIcon_jqq2ogu91q851.jpg",
+            "tintColor": "2F2F2F",
+            "size": 79137078,
+        },
 	],
 	"news": [
 		{
