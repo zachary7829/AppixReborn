@@ -1,6 +1,6 @@
 {
 	"name": "Burrito's AltStore",
-	"identifier": "com.burritosoftware.AltStore",
+	"identifier": "io.altstore.example",
 	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
 	"apps": [{
 			"name": "iNDS",
