@@ -1,7 +1,7 @@
 {
 	"name": "Burrito's AltStore",
-	"identifier": "io.altstore.example",
-	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"identifier": "com.flyinghead.source",
+	"sourceURL": "https://flyinghead.github.io/flycast-builds/altstore.json",
 	"apps": [{
 			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
